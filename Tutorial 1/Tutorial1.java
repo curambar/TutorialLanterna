@@ -2,7 +2,10 @@ import com.googlecode.lanterna.*;
 import com.googlecode.lanterna.terminal.*;  
   
 import java.io.IOException;  
-  
+
+/**
+ * Primer tutorial, usando funciones básicas de Terminal.
+ */
 public class Tutorial1 {  
   public static void main(String[] args) throws IOException {  
           
