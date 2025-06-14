@@ -146,8 +146,3 @@ Debido a esto, nunca debemos usar la `Terminal`, porque puede caudar cambios que
     }
   }
 }
-```
-
-## Clases e Interfaces
-
-### `Screen`
