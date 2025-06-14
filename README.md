@@ -24,3 +24,9 @@ Luego de modificar este archivo, aparecerá este icono en la esquina superior de
 2. [Tutorial 2](<Tutorial 2/Readme.md>) - Terminal parte 2
 3. [Tutorial 3](<Tutorial 3/Readme.md>) - Screen
 4. [Tutorial 4](<Tutorial 4/Readme.md>) - GUI
+
+## Especificaciones de las interfaces usadas
+
+[Resumen de métodos útiles](Métodos.md).
+
+Más ejemplos en [la repo oficial](https://github.com/mabe02/lanterna/tree/master).
